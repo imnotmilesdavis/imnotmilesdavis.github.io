@@ -1,0 +1,45 @@
+body {
+  background-image: url("windowsxp.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  border: 4mm ridge white;
+  border-fill: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+nav {
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  text-align: center;
+  font-size: 40px;
+}
+
+a:link {
+color: red;
+background-color: white;
+}
+
+a:visited {
+color: green;
+}
+
+a:hover {
+color: black;
+}
+
+a:active {
+color: blue;
+}
+
+.make-me-fit {
+display: inline-block;
+}
+
+.container {
+text-align: center;
+}

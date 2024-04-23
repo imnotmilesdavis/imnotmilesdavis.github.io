@@ -40,6 +40,13 @@ p3 {
   text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 
+figure {
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 15px;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+}
+
   a:link {
   color: red;
   background-color: white;
@@ -63,4 +70,10 @@ a:active {
 
 .container {
   text-align: center;
+}
+
+
+figure {
+  color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
