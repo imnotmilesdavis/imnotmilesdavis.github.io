@@ -48,3 +48,11 @@ Jake of Bejalvin and always loved their bizarre web design and did steal the bac
 - Small problem - I found out that when we connect CSS files to our HTML, the names of the files are caps sensitive. Good to know.
 
 - Fonts sometimes show up as something different on mobile. I use the Comic Sans font throughout the website and, for some reason, my iPhone shows it as some cursive text I've never seen before. I tried a few different web browsers on my computer and had consistent success with the website, but it appears iPhones think Comic Sans MS in a CSS file mean cursive.
+
+## Citations
+
+bejalvin.com
+https://www.w3schools.com/css/css_font.asp
+https://www.w3schools.com/css/css_boxmodel.asp
+https://www.w3schools.com/howto/howto_js_topnav_responsive.asphttps://www.w3schools.com/html/html_favicon.asp
+https://www.w3schools.com/cssref/pr_background-image.php
