@@ -1,0 +1,27 @@
+# THIS IS MY HEADER
+## THIS IS MY SUB HEADER
+
+**oooo i'm italicizing**
+
+```javascript
+STRUDEL CODE GOES HERE
+`
+// strudel
+stack(
+`
+note("c eb g bb d f4 c4").sound("sawtooth").euclid(8,9).distort("<0 2 3 10:.5>").delaytime("<.125 .25 .5 1>")
+`
+# ABDYD
+
+ For this assignment I was trying to play around with some euclidian rhythms and stacking chords.
+ Obviously, the stacking chords part didn't happen because I, for some reason, cannot figure out how to stack
+ note messages. I feel like I'm missing some very simple concept with the stacking and I haven't been able to find it in the documentation yet.
+ For the project I wanted to stack the arpegiated chords in 3rds and have the euclidian rhythms so it creates this oscilating effect
+ with the harmony. To compensate for my lack of stacked chords, I instead added some distortion and delay to make this loop a little more complicated.
+
+ I stole some code from the documentation on how to format the distortion and delay arguments. I still don't fully understand how the argument works but what I
+ noticed is that there's multiple numbers within the distortion and delay time that appears to change each cycle and thereby change the level of distortion
+ and delay within the instrument.
+
+ https://strudel.cc/learn/effects/#distort
+ https://strudel.cc/learn/effects/#delay
