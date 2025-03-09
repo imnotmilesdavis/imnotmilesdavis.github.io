@@ -4,7 +4,7 @@
 
 ## code
 
-``javascript
+```javascript
 //music by miles david (dreamcorp.)
 // a piece in multiple parts
 //visuals by khoparzi
@@ -112,7 +112,11 @@ gradient(0.25)
 // Aqautic blubs
 // By Khoparzi
 // https://khoparzi.com
-``
+```
+
+
+
+
 
 ## EXPLANATION
 
