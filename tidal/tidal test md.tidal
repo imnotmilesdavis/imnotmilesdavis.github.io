@@ -1,0 +1,8 @@
+setcps 0.5
+d1 $ fast 4 $ note (arp "<converge diverge pinkyup pinkyupdown thumbup thumbupdown>" "<d'major a'major b'minor e'minor>") # s "newnotes" # crush "[ 2 |16 ]"
+d2 $ fast 2 $ note (arp "<converge diverge pinkyup pinkyupdown thumbup thumbupdown>" "<a'major e'major e'minor b'minor>") # s "newnotes" # crush "[ 2 |16 ]"
+d3 $ slow 3 $ note (arp "<converge diverge pinkyup pinkyupdown thumbup thumbupdown>" "<b'minor b'major d'minor a'minor>") # s "newnotes" # crush "[ 2 |16 ]"
+d4 $ fast 2 $ sound "bd!16 sn" # distort "[16 | 4]" # crush "[ 2 |16 ]"
+d5 $ fast 80 $ sound "hh!16" # distort "[16 | 4]" # crush "[ 2 |16 ]"
+
+hush
